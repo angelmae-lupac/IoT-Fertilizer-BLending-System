@@ -50,14 +50,13 @@ Sensor → Microcontroller → Firebase RTDB → Mobile Application → Control 
 
 ## Mobile Application Interface
 
-<img width="1080" height="2201" alt="agriblendApp1" src="https://github.com/user-attachments/assets/52fd64ac-ec17-4ecf-9884-46f0c9536a55" />
 
-<img width="1080" height="2298" alt="agriblendApp3" src="https://github.com/user-attachments/assets/dd4d44b4-62cd-4eb4-9b15-27f2b82a63e1" />
+
+
 
 
 <img width="1080" height="2309" alt="agriblendApp" src="https://github.com/user-attachments/assets/eb02c560-c793-4b78-9db5-ea09aa03ac19" />
 
-<img width="1080" height="2315" alt="agriblendApp2" src="https://github.com/user-attachments/assets/98ba771d-4e28-42ad-b63a-c4da1fc9a643" />
 
 
 
